@@ -1,0 +1,9 @@
+/.vscode/*
+/Logs/*
+/obj/*
+/Packages/*
+/Temp/*
+/UserSettings/*
+*.sln
+*.csproj
+*.exe
